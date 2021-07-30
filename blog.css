@@ -1,0 +1,93 @@
+body{
+
+        background: black;
+background-image: url(https://upload.onionz.dev/s/u5p103mq.gif) ;
+}
+pre{
+    border-radius: 5px;
+    padding: 5px 10px 5px 35px;
+    position: relative;
+    overflow: hidden;
+    background: #b3b3b3;
+    padding: 5px;
+}
+code{
+    position: relative;
+    overflow: hidden;
+    background: #b3b3b3;
+}
+.p{
+        background-image: url(https://thumbs.gfycat.com/BelovedAcceptableJavalina-size_restricted.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 50px;
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-family:'Raleway', sans-serif;
+    helvetica, arial, sans-serif;
+    font-weight: 80;
+    -webkit-font-smoothing: antialiased;
+}
+.blog {
+    font-size: 30px;
+    background: #f7f7f7;
+    padding: 10px;
+}
+
+.small{
+    font-size: 15px;
+}
+
+.markdown {
+        border-radius: 10px;
+    max-width: 1000px;
+    color: black;
+    background: gray;
+}
+
+.markdown h1 {
+    text-align: center;
+}
+
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+    text-align: left;
+}
+
+.markdown blockquote {
+    background: #fafafa;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 5px 10px 5px 35px;
+    position: relative;
+    overflow: hidden;
+}
+
+.markdown blockquote:before,
+.markdown blockquote:after {
+    content: '“';
+    position: absolute;
+    left: 5px;
+    top: 10px;
+    line-height: 50px;
+    font-size: 80px;
+    color: rgba(0, 0, 0, 0.3);
+    font-family: Arial, sans-serif;
+}
+
+.markdown blockquote:after {
+    content: '”';
+    left: initial;
+    top: initial;
+    line-height: 0px;
+    bottom: 0px;
+    right: 0px;
+}
