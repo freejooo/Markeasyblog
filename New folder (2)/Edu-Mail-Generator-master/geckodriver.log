@@ -1,0 +1,45 @@
+1631521070802	geckodriver	INFO	Listening on 127.0.0.1:52913
+1631521073863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Nardcart\\AppData\\Local\\Temp\\rust_mozprofileppGRey"
+1631521160406	geckodriver	INFO	Listening on 127.0.0.1:55019
+1631521164056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Nardcart\\AppData\\Local\\Temp\\rust_mozprofileGVjYyU"
+1631521165351	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nardcart\\AppData\\Local\\Temp\\rust_mozprofileGVjYyU\\search.json.mozlz4", (void 0)))
+1631521172497	Marionette	INFO	Listening on port 55027
+1631521174651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572491286, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572491286, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572491286, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572491286 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572491286 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1551800164, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1551800164, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1551800164 line 1 > eval, line 1: unreachable code after return statement
+1631521188649	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631521224485	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631521241082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631521247648	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 10752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1631521250110	Marionette	INFO	Stopped listening on port 55027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631521260356	geckodriver	INFO	Listening on 127.0.0.1:55004
+1631521263409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Nardcart\\AppData\\Local\\Temp\\rust_mozprofileAsEarc"
+1631521265845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Nardcart\\AppData\\Local\\Temp\\rust_mozprofileAsEarc\\search.json.mozlz4", (void 0)))
+1631521273137	Marionette	INFO	Listening on port 55012
+1631521274552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852477562, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852477562, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852477562, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852477562 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.opencccapply.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1852477562 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3, line 1: unreachable code after return statement
+JavaScript warning: https://www.openccc.net/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3 line 1 > eval, line 1: unreachable code after return statement
+1631521282665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631521305064	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1631521322553	Marionette	INFO	Stopped listening on port 55012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
